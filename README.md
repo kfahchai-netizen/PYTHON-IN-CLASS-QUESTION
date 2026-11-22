@@ -64,7 +64,7 @@ Files are named `<chapter>.<question>.py`.
 ## 🚀 Running an exercise
 
 ```bash
-git clone https://github.com/kfahchai-netizen/PYTHON-IN-CLASS-QUESTION.git
+git clone https://github.com/kfahchai/PYTHON-IN-CLASS-QUESTION.git
 cd PYTHON-IN-CLASS-QUESTION
 python 8.8.py        # e.g. the Scrabble scorer
 ```
